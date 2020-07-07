@@ -1,2 +1,2 @@
-# caseolap
-CaseOLAP Website
+# Quanta Guru
+# [Quantum Demo](https://algassert.com/quirk)
